@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">Eddystone Demo</string>
-    <string name="hello_world">Hello world!</string><a href="http://www.google.com">Google</a></string>
+    <string name="hello_world"><a href="http://www.google.com">Google</a></string>
+    <string name="hello_world">www.google.com</string>
     <string name="action_settings">Settings</string>
 
 </resources>
